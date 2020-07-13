@@ -1,0 +1,94 @@
+{
+    "BoschGBH11DE": {
+        "id": "BoschGBH11DE",
+        "category": "hammers",
+        "urlPostFix": "bosch-gbh-11de",
+        "HebrewName": "פטיש חציבה בוש 11 דגם Bosch GBH 11 DE",
+        "Description": "פטיש חציבה מקצועי במשקל 11 ק\"ג לעבודות חציבה בינוניות כפתור ברירת עוצמת מכה בין 6 עד 25 ג'אול",
+        "MetaDescription": "השכרת פטיש חציבה 11 קילו בוש דגם Bosch GBH 11",
+        "MetaKeywords": "השכרת פטיש חציבה בוש, השכרת פטיש חציבה 11 קילו, השכרת פטיש חציבה בירושלים",
+        "pageTitle": "השכרת פטיש חציבה בוש 11 קילו"
+    },
+    "BoschGSH27": {
+        "id": "BoschGSH27",
+        "category": "hammers",
+        "urlPostFix": "bosch-gsh-27",
+        "HebrewName": "פטיש חציבה בוש (קונגו) צהוב ענק דגם Bosch GSH 27",
+        "Description": "",
+        "MetaDescription": "השכרת פטיש חציבה ענק (קונגו) במשקל 30 קילו",
+        "MetaKeywords": "השכרת קונגו, השכרת פטיש חציבה קונגו, השכרת קונגו בירושלים",
+        "pageTitle": "השכרת פטיש חציבה ענק קונגו"
+    },
+    "BoschGSH5E": {
+        "id": "BoschGSH5E",
+        "category": "hammers",
+        "urlPostFix": "bosch-gsh-5e",
+        "HebrewName": "פטיש חציבה בוש 5 דגם Bosch GSH 5 E",
+        "Description": "",
+        "MetaDescription": "השכרת פטיש חציבה 5 קילו בוש, לעבודות סיתות וחציבה קלות עד בינוניות",
+        "MetaKeywords": "השכרת פטיש חציבה 5 קילו, השכרת פטיש חציבה קטן, השכרת פטיש חציבה בוש 5",
+        "pageTitle": "השכרת פטיש חציבה 5 קג"
+    },
+    "DewaltD25981": {
+        "id": "DewaltD25981",
+        "category": "hammers",
+        "urlPostFix": "dewalt-d25981",
+        "HebrewName": "פטיש חציבה גדול דיוולט דגם Dewalt D25981",
+        "Description": "פטיש חציבה גדול וחזק במשקל 30 ק\"ג לעבודות הריסה וחציבה בבטון ואבן, מתאים במיוחד לעבודות הריסה קשות",
+        "MetaDescription": "השכרת פטיש חציבה ענק להריסה וחציבה באבן וחומרים קשים, פטיש חציבה במשקל 30 קילו",
+        "MetaKeywords": "השכרת פטיש חציבה ענק, השכרת פטיש חציבה במשקל 30 קילו, השכרת פטיש הריסה",
+        "pageTitle": "השכרת פטיש חציבה ענק 30 ק\"ג עם עגלה"
+    },
+    "MakitaHM1202K": {
+        "id": "MakitaHM1202K",
+        "category": "hammers",
+        "urlPostFix": "makita-hm-1202k",
+        "HebrewName": "פטיש חציבה מקיטה 1202 דגם Makita HM 1202K",
+        "Description": "",
+        "MetaDescription": "השכרת פטיש חציבה מקיטה לעבודות חציבה וסיתות, כלי עבודה מקצועי ומשתלם במיוחד להשכרה",
+        "MetaKeywords": "השכרת פטיש חציבה מקיטה, השכרת פטיש חציבה בירושלים",
+        "pageTitle": "השכרת פטיש חציבה מקיטה"
+    },
+    "MakitaHammer1200": {
+        "id": "MakitaHammer1200",
+        "category": "hammers",
+        "urlPostFix": "makita-hammer-1200",
+        "HebrewName": "פטיש חציבה מקיטה דגם Makita hm 1200",
+        "Description": "",
+        "MetaDescription": "",
+        "MetaKeywords": "",
+        "pageTitle": "השכרת פטיש חציבה מקיטה דגם 1200"
+    },
+
+    "BronkoMGB2800": {
+        "id": "BronkoMGB2800",
+        "category": "generators",
+        "urlPostFix": "bronko-mgb-2800",
+        "HebrewName": "גנרטור ברונקו דגם MGB 2800",
+        "Description": "",
+        "MetaDescription": "",
+        "MetaKeywords": "",
+        "pageTitle": "השכרת גנרטור 2800 וואט"
+    },
+    "ShatalSR5500": {
+        "id": "ShatalSR5500",
+        "category": "generators",
+        "urlPostFix": "shatal-sr-5500",
+        "HebrewName": "גנרטור שטל דגם Shatal SR 5500",
+        "Description": "",
+        "MetaDescription": "",
+        "MetaKeywords": "",
+        "pageTitle": "השכרת גנרטור 5500 וואט"
+    },
+
+    "makita-diamond-core-cup-drill-bit": {
+        "id": "MakitaDiamondCoreDrillDBM080",
+        "category": "diamondDrills",
+        "urlPostFix": "makita-diamond-core-cup-drill-bit",
+        "HebrewName": "מקדחה לכוסות יהלום מקיטה Makita DBM080",
+        "Description": "מקדחה לכוסות יהלום של חברת מקיטה דגם DBM080 לקידוח חורים עגולים בבטון ואבן עם מקדח יהלום עד קוטר 82 מ\"מ.",
+        "MetaDescription": "השכרת מקדחה עם כוס יהלום לקידוח בבטון, כלי עבודה שימושי ביותר בקידוח חור למזגן או חורים עגולים אחרים. השכרה לתקופה קצרה או ארוכה במחירים זולים",
+        "MetaKeywords": "השכרת מקדח יהלום, השכרת מקדחה לכוסות יהלום, השכרת מקדח למזגן, השכרת מקדחת יהלום, מכונה לקידוח בטון, השכרת כוס יהלום 112, השכרת מקדחת יהלום ירושלים",
+        "pageTitle": "השכרת מקדחת יהלום מקצועית עם כוסות קידוח"
+    }
+}
